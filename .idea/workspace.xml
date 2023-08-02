@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session1_homework/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1_homework/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session1_homework/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1_homework/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session1_homework/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1_homework/Exercise3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/session1_homework/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session1_homework/Exercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise4">
+  <component name="RunManager" selected="Application.Exercise2">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session1_homework.Exercise1" />
       <module name="Itschool" />
@@ -105,9 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Main" />
       </list>
