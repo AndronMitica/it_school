@@ -1,0 +1,26 @@
+Index: src/homework/AritmeticOperations.java
+===================================================================
+diff --git a/src/homework/AritmeticOperations.java b/src/homework/AritmeticOperations.java
+deleted file mode 100644
+--- a/src/homework/AritmeticOperations.java	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-package homework;
+-
+-public class AritmeticOperations {
+-}
+Index: src/session2/Practice.java
+===================================================================
+diff --git a/src/session2/Practice.java b/src/session2/Practice.java
+deleted file mode 100644
+--- a/src/session2/Practice.java	
++++ /dev/null	
+@@ -1,8 +0,0 @@
+-package session2;
+-
+-public class Practice {
+-    public static void main (System[] args){
+-
+-    }
+-
+-}
