@@ -10,5 +10,10 @@ public class Exercise4 {
         int num1 = myObj.nextInt();
         int num2 = myObj.nextInt();
         System.out.println("The sum is " + (num1 + num2));
+        if((num1 + num2) <=9){
+            System.out.println("The result has one digit.");
+        } else if ((num1 + num2) > 10){
+            System.out.println("The result has two digits.");
+        }
     }
 }
