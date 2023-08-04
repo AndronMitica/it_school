@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="session 3 update">
+    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="Exercise 1 resolved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
-    <configuration name="AssignmentCompoundOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.AssignmentCompoundOperators" />
-      <module name="Itschool" />
+  <component name="RunManager" selected="Application.Exercise2">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise1" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise1" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise2" />
       <module name="it_school#" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.NumericPromotion" />
         <item itemvalue="Application.RelationalOperators" />
-        <item itemvalue="Application.AssignmentCompoundOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691089915029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercise 1 resolved">
+      <created>1691123166356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691123166356</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +175,7 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="some change" />
     <MESSAGE value="session 3 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="session 3 update" />
+    <MESSAGE value="Exercise 1 resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 resolved" />
   </component>
 </project>
