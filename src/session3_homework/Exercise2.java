@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  *2. Create a Java program where you increment and decrement the same variable.
  * Display the value of the variable after each operation.
- */
+ * */
 public class Exercise2 {
 
     public static void main(String[] args) {

@@ -2,8 +2,9 @@ package session3_homework;
 
 import java.util.Scanner;
 
-/*6. Write a Java program that takes two numbers from the user and uses relational operators
- to display whether the first number is greater than, less than, or equal to the second number*/
+/* 6. Write a Java program that takes two numbers from the user and uses relational operators
+ * to display whether the first number is greater than, less than, or equal to the second number.
+ * */
 public class Exercise6 {
 
     public static void main(String[] args) {

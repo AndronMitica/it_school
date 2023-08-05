@@ -2,7 +2,7 @@ package session3_homework;
 
 import java.util.Scanner;
 
-/*10. Write a program that reverses the sign of an entered integer using unary minus operator.*/
+/* 10. Write a program that reverses the sign of an entered integer using unary minus operator.*/
 public class Exercise10 {
 
     public static void main(String[] args) {

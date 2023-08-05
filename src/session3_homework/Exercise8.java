@@ -4,8 +4,9 @@ import com.sun.source.tree.NewArrayTree;
 
 import java.util.Scanner;
 
-/*8. Create a program that takes two byte values, adds them together,
- and stores the result in a byte variable.*/
+/* 8. Create a program that takes two byte values, adds them together,
+ * and stores the result in a byte variable.
+ * */
 public class Exercise8 {
 
     public static void main(String[] args) {

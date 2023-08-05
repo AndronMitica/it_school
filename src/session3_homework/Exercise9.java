@@ -1,6 +1,6 @@
 package session3_homework;
 
-/*9. Write a program that calculates the area of a rectangle. Take the length and breadth as inputs.*/
+/* 9. Write a program that calculates the area of a rectangle. Take the length and breadth as inputs.*/
 
 import java.util.Scanner;
 

@@ -3,8 +3,9 @@ package session3_homework;
 import java.util.Scanner;
 
 /*13. Write a program to calculate the price after discount.
-Take the original price and discount percentage as input.
-Use compound assignment operator to perform the calculation. */
+* Take the original price and discount percentage as input.
+* Use compound assignment operator to perform the calculation.
+* */
 public class Exercise13 {
 
     public static void main(String[] args) {
@@ -14,9 +15,8 @@ public class Exercise13 {
         System.out.println("Insert the discount value: ");
         int discount = scanner.nextInt();
 
-        int newPrice = price - (price * discount / 100);
-        System.out.println("The original price is: " + price);
-        System.out.println("The price after applying the discount is: " + newPrice);
+        price -= (price * discount / 100);
+        System.out.println("The price after applying the discount is: " + price);
 
         scanner.close();
     }

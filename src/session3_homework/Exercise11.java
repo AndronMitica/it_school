@@ -2,8 +2,9 @@ package session3_homework;
 
 import java.util.Scanner;
 
-/*11. Write a Java program that takes two boolean inputs from a user.
-Apply the logical negation operator (!) to each and print the result.*/
+/* 11. Write a Java program that takes two boolean inputs from a user.
+* Apply the logical negation operator (!) to each and print the result.
+* */
 public class Exercise11 {
 
     public static void main(String[] args) {

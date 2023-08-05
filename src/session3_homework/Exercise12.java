@@ -1,7 +1,8 @@
 package session3_homework;
 
 /*12. Create a program that takes an integer as input and then increments and decrements it by 1,
- displaying the output at each stage.*/
+ * displaying the output at each stage.
+ * */
 
 import java.util.Scanner;
 
