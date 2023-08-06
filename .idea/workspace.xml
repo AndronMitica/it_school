@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="some change">
+    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="Homework 3 resolved (some changes)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3/NumericPromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3/NumericPromotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise7.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +51,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumericPromotion">
-    <configuration name="AssignmentCompoundOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.AssignmentCompoundOperators" />
-      <module name="Itschool" />
+  <component name="RunManager" selected="Application.Exercise4">
+    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise12" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementDecrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.IncrementDecrementOperators" />
-      <module name="Itschool" />
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise13" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalComplementAndnNegationOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.LogicalComplementAndnNegationOperators" />
-      <module name="Itschool" />
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise14" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumericPromotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.NumericPromotion" />
-      <module name="Itschool" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise3" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session3.RelationalOperators" />
-      <module name="Itschool" />
+    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session3_homework.Exercise4" />
+      <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session3.*" />
+          <option name="PATTERN" value="session3_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumericPromotion" />
-        <item itemvalue="Application.RelationalOperators" />
-        <item itemvalue="Application.AssignmentCompoundOperators" />
-        <item itemvalue="Application.IncrementDecrementOperators" />
-        <item itemvalue="Application.LogicalComplementAndnNegationOperators" />
+        <item itemvalue="Application.Exercise4" />
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise13" />
+        <item itemvalue="Application.Exercise14" />
+        <item itemvalue="Application.Exercise12" />
       </list>
     </recent_temporary>
   </component>
@@ -153,13 +157,54 @@
       <option name="project" value="LOCAL" />
       <updated>1691003445976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="session 3 update">
+      <created>1691089915029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691089915029</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercise 1 resolved">
+      <created>1691123166356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691123166356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercise 1&amp;2 resolved">
+      <created>1691124492160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691124492160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework 3 resolved">
+      <created>1691257094932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691257094932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework 3 resolved (some changes)">
+      <created>1691263917116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691263917116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="update code formatting" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="some change" />
+    <MESSAGE value="session 3 update" />
+    <MESSAGE value="Exercise 1 resolved" />
+    <MESSAGE value="Exercise 1&amp;2 resolved" />
+    <MESSAGE value="Homework 3 resolved" />
+    <MESSAGE value="Homework 3 resolved (some changes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 resolved (some changes)" />
   </component>
 </project>
