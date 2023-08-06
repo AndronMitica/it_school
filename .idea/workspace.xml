@@ -6,19 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="Homework 3 resolved (some changes)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session3_homework/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session3_homework/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise7.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691257094932</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Homework 3 resolved (some changes)">
+      <created>1691263917116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691263917116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
