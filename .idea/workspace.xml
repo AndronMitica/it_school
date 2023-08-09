@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="session 4 practice">
+    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="session 4 homework&#10; 7 exercises resolved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/it_school#/session3_homework/Exercise8.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +47,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise7">
-    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise4" />
-      <module name="it_school#" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="session4.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise5" />
+  <component name="RunManager" selected="Application.Exercise10">
+    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise10" />
       <module name="it_school#" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session4.practice.TernaryOperator" />
+    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise8" />
       <module name="it_school#" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session4.practice.*" />
+          <option name="PATTERN" value="session4.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise9" />
+      <module name="it_school#" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session4.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise10" />
+        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise8" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise6" />
-        <item itemvalue="Application.Exercise5" />
-        <item itemvalue="Application.Exercise4" />
-        <item itemvalue="Application.TernaryOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691519639905</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="session 4 homework&#10; 7 exercises resolved">
+      <created>1691554626690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691554626690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,6 +216,7 @@
     <MESSAGE value="Homework 3 resolved" />
     <MESSAGE value="Homework 3 resolved (some changes)" />
     <MESSAGE value="session 4 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="session 4 practice" />
+    <MESSAGE value="session 4 homework&#10; 7 exercises resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 4 homework&#10; 7 exercises resolved" />
   </component>
 </project>
