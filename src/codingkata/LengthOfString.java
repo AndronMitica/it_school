@@ -7,7 +7,7 @@ public class LengthOfString {
      * Avoid using the built-in length() method.
      * */
 
-    public static String getString
+    public static String getString;
 
     public static void main(String[] args) {
         System.out.println(getStringLength("test"));

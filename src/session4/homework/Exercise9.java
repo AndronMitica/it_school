@@ -9,8 +9,8 @@ public class Exercise9 {
 
     public static void main(String[] args) {
         String countryOne = "USA";
-//         String countryTwo = "USA";
-        String countryTwo = "UK";
+        String countryTwo = "USA";
+        countryTwo = "UK";
 
         System.out.println(countryOne.equals(countryTwo));
     }

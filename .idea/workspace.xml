@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="session 4 homework&#10; 7 exercises resolved">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3c628e33-6ffb-4f28-a071-0fc4ddd95867" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/session4/homework/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session4/homework/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session4/homework/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session4/homework/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise10">
+  <component name="RunManager" selected="Application.Exercise9">
     <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session4.homework.Exercise10" />
       <module name="it_school#" />
@@ -115,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise10" />
         <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise10" />
         <item itemvalue="Application.Exercise8" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise6" />
