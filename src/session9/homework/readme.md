@@ -16,6 +16,7 @@
    Deposit and withdraw money from their account.
    Check their current balance.
    View a summary of their recent transactions, including deposits, withdrawals, and balance after each transaction. 
+
 4. Fitness Tracking System - Design a system for individuals who want to track their fitness activities:
    Users can log different types of workouts, such as running, weightlifting, or yoga.
    Each workout type has specific attributes like duration, distance, or weight lifted.
