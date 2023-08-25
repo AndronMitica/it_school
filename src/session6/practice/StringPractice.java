@@ -1,5 +1,7 @@
 package session6.practice;
 
+import session6.practice.PracticeUser;
+
 public class StringPractice {
 
     public static void main(String[] args) {
