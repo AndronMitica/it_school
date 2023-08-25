@@ -23,6 +23,3 @@
 
 9. Frequency Counter
    Description: Using StringBuilder, write a program that counts the frequency of each character in a string.
-
-10. Morse Code Converter
-    Description: Create a program that takes in a string and converts it to Morse code using the StringBuilder class. For simplicity, you can assume the input string only contains alphabets and numbers.

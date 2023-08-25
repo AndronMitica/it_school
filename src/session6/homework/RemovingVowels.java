@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 4. Removing Vowels
  * Description: Create a Java program that uses the StringBuilder class to remove all the vowels from an input string.
  */
-public class RemovingVowelsProgram {
+public class RemovingVowels {
 
     public static String removingVowels(String input) {
         String removedVowels = input.replaceAll("[aeiouAEIOU]", "");
