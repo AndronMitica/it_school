@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Peek: " + myStak.peek());
     }
 }
+
 /*
  *
  * second element

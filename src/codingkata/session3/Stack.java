@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Stack {
-    private List<String> stack;
+    private final List<String> stack;
 
     public Stack() {
         stack = new LinkedList<>();
