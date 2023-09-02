@@ -1,10 +1,15 @@
-1. College Management System -  Design a system for a college to efficiently manage information about students, professors, and courses:
-   Store comprehensive profiles for every student, capturing their first name, last name, sex, age, date of birth, CNP, and address.
-   Similarly, maintain detailed profiles for every professor, including their first name, last name, sex, age, date of birth, CNP, and address.
-   The college offers eight distinct courses: Math, Computer Science, Physics, Chemistry, Biology, Geography, English, and History. For each course, track details like its schedule, duration, description, and the assigned professor.
-   Allow for the assignment of a professor to a specific course and ensure the ability to retrieve and view course details, including its assigned professor.
+1. College Management System - Design a system for a college to efficiently manage information about students,
+   professors, and courses:
+   Store comprehensive profiles for every student, capturing their first name, last name, sex, age, date of birth, CNP,
+   and address.
+   Similarly, maintain detailed profiles for every professor, including their first name, last name, sex, age, date of
+   birth, CNP, and address.
+   The college offers eight distinct courses: Math, Computer Science, Physics, Chemistry, Biology, Geography, English,
+   and History. For each course, track details like its schedule, duration, description, and the assigned professor.
+   Allow for the assignment of a professor to a specific course and ensure the ability to retrieve and view course
+   details, including its assigned professor.
 
-2. School Gradebook  - Develop a gradebook system for a school where teachers can:
+2. School Gradebook - Develop a gradebook system for a school where teachers can:
    Add students to their classes.
    Each student has a name and a unique student ID.
    Assign grades for assignments or exams to each student.
@@ -15,7 +20,7 @@
    Create an account with personal details and an initial deposit.
    Deposit and withdraw money from their account.
    Check their current balance.
-   View a summary of their recent transactions, including deposits, withdrawals, and balance after each transaction. 
+   View a summary of their recent transactions, including deposits, withdrawals, and balance after each transaction.
 
 4. Fitness Tracking System - Design a system for individuals who want to track their fitness activities:
    Users can log different types of workouts, such as running, weightlifting, or yoga.
