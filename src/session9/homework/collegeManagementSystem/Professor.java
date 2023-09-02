@@ -1,16 +1,25 @@
 package session9.homework.collegeManagementSystem;
 
-import java.util.UUID;
+import java.time.LocalDate;
+import java.util.Date;
 
-public class UserInfo {
-
-    String firstName;
+public class Professor {
+    private String firstName;
     private String lastName;
     private char sex;
     private int age;
-    private String dateOfBirth;
-    private UUID cnp;
+    private LocalDate dateOfBirth;
+    private String cnp;
     private String address;
+
+    public Professor (String firstName, String lastName, char sex, int age, LocalDate dateOfBirth) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.sex = sex;
+        this.age = age;
+        this.dateOfBirth = dateOfBirth;
+    }
+
 
     public String getFirstName() {
         return firstName;
@@ -44,19 +53,19 @@ public class UserInfo {
         this.age = age;
     }
 
-    public String getDateOfBirth() {
+    public LocalDate getDateOfBirth() {
         return dateOfBirth;
     }
 
-    public void setDateOfBirth(String dateOfBirth) {
+    public void setDateOfBirth(LocalDate dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
     }
 
-    public UUID getCnp() {
+    public String getCnp() {
         return cnp;
     }
 
-    public void setCnp(UUID cnp) {
+    public void setCnp(String cnp) {
         this.cnp = cnp;
     }
 
@@ -64,7 +73,9 @@ public class UserInfo {
         return address;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
+    public String toString() {
+        return "Professor name: " + (firstName + lastName) + ", sex " + sex +
+                ", age: " + age +
+                ", date of birth: " + dateOfBirth;
     }
 }
