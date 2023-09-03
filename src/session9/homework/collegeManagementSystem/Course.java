@@ -20,15 +20,12 @@ public class Course {
 
 
     }
+
     public void SetProfessor(Professor professor) {
         this.courseAssignedProfessor = courseAssignedProfessor;
     }
 
     public String toString() {
-        return "Course name: " + courseTitle + ", description: " + courseDescription +
-                ", schedule: " + courseDescription +
-                ", duration: " + courseDuration.toString() +
-                ", assignedProfessor: " + courseAssignedProfessor.toString();
+        return "Course name: " + courseTitle + ", description: " + courseDescription + ", schedule: " + courseDescription + ", duration: " + courseDuration.toString() + ", assignedProfessor: " + courseAssignedProfessor.toString();
     }
-
 }
