@@ -1,4 +1,4 @@
-package codingkata.session5;
+package codingkata.session5.ugly_number;
 
 import java.util.Random;
 
