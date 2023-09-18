@@ -1,3 +1,5 @@
+1. An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5. Given an integer n, return 
+true if n is an ugly number.
 2. Create a class named Pizza that stores information about a single pizza. It should contain the following:
 
 Private instance variables to store the size of the pizza  (either small, medium,or large), the number of cheese
